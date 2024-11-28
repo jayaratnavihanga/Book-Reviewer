@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+*.log
+
+# Environment variables
+.env
+
+# Build directories
+dist/
+build/
+
+# IntelliJ IDEA/WebStorm project files
+.idea/
+*.iml
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
